@@ -1,6 +1,6 @@
 ---
 layout: post
-title: This is the first blog
+title: The First Blog
 tags: first markdown example
 categories: demo
 ---
