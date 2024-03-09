@@ -10,7 +10,6 @@ author:
 remote_theme: jekyll/minima
 
 header_pages:
-  - home.md
   - about.md
   
 skin: dark
