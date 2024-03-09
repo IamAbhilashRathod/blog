@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Post
+title: The Second Post
 tags: second markdown example
 categories: demo
 ---
