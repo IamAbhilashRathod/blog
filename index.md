@@ -2,4 +2,4 @@
 layout: home
 ---
 
-*Musing on philosophy to finance and everything in between*
+## *Musing on Philosophy to Finance and everything in between* ##
