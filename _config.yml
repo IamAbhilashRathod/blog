@@ -7,7 +7,7 @@ author:
 
 
 # Build settings
-remote_theme: jekyll/cayman
+remote_theme: jekyll/Cayman
 
 header_pages:
   - about.md
