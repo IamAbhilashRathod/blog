@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Level Thinking
+title: Second Order Thinking
 tags: Finance 
 ---
 
