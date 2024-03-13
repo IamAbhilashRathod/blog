@@ -4,7 +4,8 @@ title: Progress via Negative Knowledge
 tags: Finance 
 ---
 
-The knowledge of "what not do"
+The knowledge of "what not do".
+
 An approach of adding value by removing things, instead of adding things
 
 Put simply, it's "improving by subtraction"
@@ -27,7 +28,8 @@ Instead of deciding what you should invest in, first try cutting out everything 
 
 By downsizing the universe, removing all the "bad" investments that you shouldnt make what you are actually doing is setting yourself on a path where you are less and less likely to make an investment that pose a risk of ruin
 
-Below are just some people and their own version of the negative knowledge
+This idea of Negative Knowledge isnt new and many great thinkers in the past has their own philosophy, their own version of Negative knowledge. Below are just few of my favourites.
+
 ## Nassim Taleb's "Via Negativa"
 > **_Via negativa: In theology and philosophy, the focus on what something is not, an indirect definition. In action, it is a recipe for what to avoid, what not to do—subtraction, not addition, say, in medicine._**
 
