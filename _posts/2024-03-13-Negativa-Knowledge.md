@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Negative Knowledge
+title: Progress via Negative Knowledge
 tags: Finance 
 ---
 
 The knowledge of "what not do"
 An approach of adding value by removing things, instead of adding things
 
-Put simply, its "improving by subtraction"
+Put simply, it's "improving by subtraction"
 
 Want to be healthy? before you go all Arnold Schwarzenegger by joining the premium membership of your closest gym, cut out that "Toofani" sugary drinks from your diet
 
@@ -41,9 +41,11 @@ Below are just some people and their own version of the negative knowledge
 ## Jordan Peterson's "Stop doing things you know are wrong"
 <iframe width="640" height="360" src="https://www.youtube.com/embed/5FXOqSuo1bU" title="Stop Doing the Things That You Know Are Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+
 ## Naval Ravikant's "To make good decisions, avoid bad ones"
 
 > **_I don’t believe I have the ability to say what is going to work. Rather, I try to eliminate what’s not going to work. I think being successful is just about not making mistakes. It’s not about having correct judgment. It’s about avoiding incorrect judgments._**
+> 
 
 Avoiding stupidity is easier than seeking brilliance
 
