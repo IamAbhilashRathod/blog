@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Second Order Thinking
+title: Second Order Thinking: Being 2 Steps ahead
 tags: Finance 
 ---
 
