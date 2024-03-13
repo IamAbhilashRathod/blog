@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Market's Average Return isnt Your Average Return
+title: Ergodicity & Why can be the only loser in the crowd
 tags: Finance
 ---
