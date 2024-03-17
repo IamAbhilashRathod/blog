@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Ergodicity - Being the only loser in the crowd
+title: Ergodicity = How not to be the only loser in a winning team
 tags: Finance
 ---
