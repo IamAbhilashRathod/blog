@@ -2,6 +2,8 @@
 layout: home
 ---
 
+![image](8CoG55Oh_400x400.jpg)
+
 Artist, Investor, Tinkerer !
 
 
