@@ -1,7 +1,9 @@
 ---
 layout: home
 ---
+---
 # Abhilash Rathod
+## Artist, Investor, Tinkerer
 ---
 ---
 
