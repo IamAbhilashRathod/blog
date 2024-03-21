@@ -2,15 +2,15 @@
 layout: home
 ---
 ---
-# Abhilash Rathod
-## Artist, Investor, Tinkerer
+# ABHILASH RATHOD
+### Artist, Investor, Tinkerer
 ---
 ---
 
-### Sharing Thoughts at [Twitter](https://twitter.com/home)
+#### Sharing Thoughts at [Twitter](https://twitter.com/home)
 
-### Tracking Markets at [Making Cents Daily](https://makingcentsdaily.substack.com/)
+#### Tracking Markets at [Making Cents Daily](https://makingcentsdaily.substack.com/)
 
-### Simplifying Ideas at [Imagenotion](https://imagenotion.substack.com/)
+#### Simplifying Ideas at [Imagenotion](https://imagenotion.substack.com/)
 
-### Shop FAQs at [What the Finance](https://app.gumroad.com/dashboard)
+#### Shop FAQs at [What the Finance](https://app.gumroad.com/dashboard)
