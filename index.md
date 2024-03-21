@@ -2,6 +2,7 @@
 layout: home
 ---
 
+{% comment %}
 ## Artist, Investor, Tinkerer !
 
 
