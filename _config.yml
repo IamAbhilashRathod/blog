@@ -7,7 +7,7 @@ title: Home
 remote_theme: jekyll/Minima
 
 header_pages:
-  - Whyme.md
+  - resume.md
   - about.md
   
   
