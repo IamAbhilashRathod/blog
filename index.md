@@ -1,6 +1,8 @@
 ---
 layout: home
 ---
+
+---
 ---
 # Artist, Investor, Tinkerer ! 
 
