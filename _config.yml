@@ -1,8 +1,5 @@
 # Site settings
 title: Abhilash Rathod
-author:
-  name: Abhilash Rathod
-  email: toabhilashrathod@gmail.com
 
 
 
@@ -12,4 +9,3 @@ remote_theme: jekyll/Minima
 header_pages:
   - about.md
   
-skin: dark
