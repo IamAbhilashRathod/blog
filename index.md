@@ -7,11 +7,11 @@ title: ABHILASH RATHOD
 
 ---
 
-#### Sharing Thoughts at [Twitter](https://twitter.com/home)
+#### Sharing Thoughts on [Twitter](https://twitter.com/home)
 
-#### Tracking Markets at [Making Cents Daily](https://makingcentsdaily.substack.com/)
+#### Tracking Markets with [Making Cents Daily](https://makingcentsdaily.substack.com/)
 
-#### Simplifying Ideas at [Imagenotion](https://imagenotion.substack.com/)
+#### Simplifying Ideas on [Imagenotion](https://imagenotion.substack.com/)
 
 
 #### Sharing Ideas at [Instagram](https://imagenotion.substack.com/)
