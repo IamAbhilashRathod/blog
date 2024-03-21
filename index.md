@@ -6,7 +6,6 @@ title: ABHILASH RATHOD
 ### Artist, Investor, Tinkerer
 
 ---
----
 
 #### Sharing Thoughts at [Twitter](https://twitter.com/home)
 
