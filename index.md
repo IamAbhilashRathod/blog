@@ -13,3 +13,6 @@ title: ABHILASH RATHOD
 
 #### Simplifying Ideas at [Imagenotion](https://imagenotion.substack.com/)
 
+
+#### Sharing Ideas at [Instagram](https://imagenotion.substack.com/)
+
