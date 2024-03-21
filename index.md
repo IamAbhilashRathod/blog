@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Artist, Investor, Tinkerer !
+# Artist, Investor, Tinkerer ! 
 
 
 [Twitter](https://twitter.com/home)
