@@ -3,8 +3,6 @@ layout: home
 title: ABHILASH RATHOD
 ---
 ---
-# ABHILASH RATHOD
-
 ### Artist, Investor, Tinkerer
 
 ---
