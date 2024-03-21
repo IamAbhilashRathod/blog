@@ -2,7 +2,8 @@
 layout: home
 ---
 
-Musing on Philosophy to Finance and everything in between !
+Artist, Investor, Tinkerer !
+With Da Vinci's curiosity, Feynman's Simplicity & Carlin's words !
 
 [Twitter](https://twitter.com/home)
 
