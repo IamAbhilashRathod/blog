@@ -3,7 +3,7 @@ layout: home
 ---
 
 Artist, Investor, Tinkerer !
-With Da Vinci's curiosity, Feynman's Simplicity & Carlin's words !
+
 
 [Twitter](https://twitter.com/home)
 
