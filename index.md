@@ -3,7 +3,7 @@ layout: home
 title: ABHILASH RATHOD
 ---
 ---
-### Musing on Philosophy to Finance and anything in between
+### *Musing on Philosophy to Finance and anything in between*
 
 ---
 
