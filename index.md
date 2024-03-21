@@ -3,7 +3,7 @@ layout: home
 title: ABHILASH RATHOD
 ---
 ---
-### Artist, Investor, Tinkerer
+### Musing on Philosophy to Finance and anything in between
 
 ---
 
