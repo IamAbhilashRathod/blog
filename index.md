@@ -2,12 +2,12 @@
 layout: home
 ---
 
-# Artist, Investor, Tinkerer !
+* Artist, Investor, Tinkerer !
 
-[Twitter](https://twitter.com/home)
+Sharing Thoughts at [Twitter](https://twitter.com/home)
 
-[Making Cents Daily](https://makingcentsdaily.substack.com/)
+Tracking Market at [Making Cents Daily](https://makingcentsdaily.substack.com/)
 
-[Imagenotion](https://imagenotion.substack.com/)
+Simplifying Ideas at [Imagenotion](https://imagenotion.substack.com/)
 
 
