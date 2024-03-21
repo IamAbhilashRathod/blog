@@ -11,4 +11,4 @@ layout: home
 
 ### Simplifying Ideas at [Imagenotion](https://imagenotion.substack.com/)
 
-
+### Shop FAQs at [What the Finance](https://app.gumroad.com/dashboard)
