@@ -1,5 +1,5 @@
 ---
 layout: post
-title: Ergodicity - How not to be the only loser in a winning crowd
+title: Everything I learned at MCX
 tags: Finance
 ---
