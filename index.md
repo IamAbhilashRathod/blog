@@ -3,8 +3,9 @@ layout: home
 ---
 ---
 # ABHILASH RATHOD
-### Artist, Investor, Tinkerer
 ---
+### Artist, Investor, Tinkerer
+
 ---
 
 #### Sharing Thoughts at [Twitter](https://twitter.com/home)
