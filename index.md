@@ -3,7 +3,7 @@ layout: home
 ---
 ---
 # Artist, Investor, Tinkerer ! 
----
+
 
 
 ### Sharing Thoughts at [Twitter](https://twitter.com/home)
