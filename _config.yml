@@ -8,4 +8,5 @@ remote_theme: jekyll/Minima
 
 header_pages:
   - about.md
+  - blog.md
   
