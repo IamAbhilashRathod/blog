@@ -2,7 +2,9 @@
 layout: home
 ---
 
-# Artist, Investor, Tinkerer ! 
+#
+ Artist, Investor, Tinkerer ! 
+#
 Sharing Thoughts at [Twitter](https://twitter.com/home)
 
 Tracking Market at [Making Cents Daily](https://makingcentsdaily.substack.com/)
