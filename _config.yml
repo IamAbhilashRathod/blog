@@ -1,15 +1,12 @@
 # Site settings
 title: Home
 author:
-  name: Abhilash Rathod
-  email: toabhilashrathod@gmail.com
-
-
+  name: name
+  email: email address
 
 # Build settings
 remote_theme: jekyll/Minima
 
 header_pages:
   - about.md
-  
   
