@@ -1,8 +1,8 @@
 # Site settings
 title: Home
 author:
-  name: name
-  email: email address
+  name: Abhilash Rathod
+  email: toabhilashrathod@gmail.com
 
 # Build settings
 remote_theme: jekyll/Minima
