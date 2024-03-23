@@ -15,3 +15,5 @@ title: ABHILASH RATHOD
 
 #### Sharing Ideas at [Instagram](https://imagenotion.substack.com/)
 
+#### Blogs at [Medium](https://medium.com/@toabhilashrathod)
+
