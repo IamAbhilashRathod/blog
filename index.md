@@ -3,7 +3,7 @@ layout: home
 title: ABHILASH RATHOD
 ---
 ---
-### *Artist who does Analytics*
+### *Data Artist: Art with Analytics*
 
 ---
 
